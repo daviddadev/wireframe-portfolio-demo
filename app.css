@@ -1,0 +1,6 @@
+.col-lg-4 {
+    background: lightgray;
+    width: 250px;
+    height: 300px;
+    border: 1px dotted red;
+}
